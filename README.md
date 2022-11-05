@@ -34,9 +34,9 @@
 <hr/>
 
 <p align="center">
-  <a href="https://rehansattar.now.sh/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Personal Blog"/></a>
+ 
 	<a href="mailto:sidharthgopalakrishnan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/iamlovingawareness"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sidharth3108/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	
 </p>
