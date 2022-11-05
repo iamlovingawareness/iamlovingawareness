@@ -33,10 +33,4 @@
 <br />
 <hr/>
 
-<p align="center">
- 
-	<a href="mailto:sidharthgopalakrishnan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/iamlovingawareness"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sidharth3108/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
-</p>
+
